@@ -12,3 +12,6 @@ Topics covered:
 - Photoresistor (LDR)
 - String input via Serial
 - While loops / control flow
+- Servo Motor Control
+- Mathematical mapping
+- Mini-Project: Weather Monitor (LDR + Servo + PWM LED0
